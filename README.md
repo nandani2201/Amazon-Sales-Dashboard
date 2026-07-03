@@ -1,5 +1,5 @@
 🛒 Amazon Sales Performance Dashboard
- ![Amazon Dashboard](Amazon Dashboard.png)
+![Amazon Dashboard](Amazon_Dashboard.png)
 
 📌 Project Overview
 
