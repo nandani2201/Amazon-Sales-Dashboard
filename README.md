@@ -6,7 +6,9 @@
 This interactive Power BI Dashboard analyzes Amazon's sales performance across India, providing deep insights into Orders, Products, and Sales trends from April 2022 to June 2022. Data was collected using Web Scraping techniques via Python.
 
 📊 Key Metrics
+
 MetricValue 
+
 💰 Total Sale Amount    89.08M 
 📦 Total Orders         133K 
 ⏳ Pending Orders       679 
@@ -30,6 +32,7 @@ MetricValue
 . Performance analysis
 
 🔍 Key Insights
+
 📌 Bengaluru & Maharashtra are top performing city and state
 📌 113K orders shipped out of 133K total orders 
 📌 Return rate of 14.22 indicates room for improvement 
@@ -38,6 +41,7 @@ MetricValue
 
 
 🛠️ Tools Used
+
 Tool Purpose Power BI    Desktop Dashboard creation & visualization 
 Python Web scraping to collect data 
 Jupyter Notebook Python scripting environment 
@@ -45,9 +49,11 @@ Power Query Data cleaning & transformation
 DAXCalculated measures & KPIs
 
 📁 Project Structure
+
 Amazon-Sales-Dashboard/ │ ├── 📊 AMAZON SALES DASHBOARD.pbix # Power BI Dashboard file ├── 🖼️ Amazon Dashbord.png # Dashboard preview image ├── 🐍 Web_Scrapping.ipynb # Python web scraping notebook └── 📝 README.md # Project documentation
 
 🐍 Web Scraping
+
 Data was collected using Python web scraping
 :Library used : BeautifulSoup / Requests Source 
 : Amazon product listings Data collected 
